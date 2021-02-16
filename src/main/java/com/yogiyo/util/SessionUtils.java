@@ -3,6 +3,11 @@ package com.yogiyo.util;
 import org.springframework.web.context.request.RequestAttributes;
 import org.springframework.web.context.request.RequestContextHolder;
 
+/**
+ * 푸쉬!
+ * @author user
+ *
+ */
 public class SessionUtils {
 	/**
 	 * 세션객체에 지정된 이름으로 값을 저장한다.
